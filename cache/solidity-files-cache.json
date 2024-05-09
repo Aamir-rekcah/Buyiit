@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\ACER\\OneDrive\\Desktop\\DApp\\dappazon\\contracts\\Buyiit.sol": {
+      "lastModificationDate": 1715085864752,
+      "contentHash": "9348f16b050173dd016bb6c3fe19d9ca",
+      "sourceName": "contracts/Buyiit.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Buyiit"
+      ]
+    }
+  }
+}
